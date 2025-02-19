@@ -1,28 +1,19 @@
-# SpamMail by MEHDI_UHQ
+🚀 SpamMail by MEHDI_UHQ
 
-**********************************************************************************************************                                                          
+************************************************************************************************************************************
 
-FR: Bienvenue dans mon répertoire. Ce script permet de spam des e-mails vers une adresse mail victime.
+🇫🇷 Bienvenue dans SpamMail !
+Ce script vous permet d’envoyer un grand nombre d’e-mails vers une adresse cible 📩.
 
-EN: Welcome to my directory. This script allows spamming emails to a victim email address.
+************************************************************************************************************************************
 
-**********************************************************************************************************
+⚙️ Dépendances requises :
 
-Dépendances nécéssaires / Necessary Dependencies:
+apt install python3
 
-apt install Python3
+************************************************************************************************************************************
 
-***********************************************************************************************************
-
-Configuration:
-
-nano spammail.py
-
-Remplacez l'adresse email avec laquelle on envoie ainsi que le mot de passe d'application et bien choisir le protocole smtp ( Par exemple pour gmail : smtp.gmail.com )
-
-***********************************************************************************************************
-
-Installation: 
+🛠️ Installation :
 
 git clone https://github.com/Meeeehddiiii/SpamMail
 
@@ -30,5 +21,47 @@ cd SpamMail
 
 python3 spammail.py
 
+************************************************************************************************************************************
 
+🔧 Configuration :
+
+nano spammail.py
+
+Remplacez l’adresse e-mail d’envoi ainsi que le mot de passe d’application 🔑.
+Assurez-vous d’utiliser le bon protocole SMTP (exemple pour Gmail : smtp.gmail.com 📧).
+
+************************************************************************************************************************************
+
+
+🇬🇧 English Version
+
+👋 Welcome to SpamMail!
+
+This script allows you to send a large number of emails to a target address 📩.
+
+************************************************************************************************************************************
+
+⚙️ Required Dependencies:
+
+apt install python3
+
+************************************************************************************************************************************
+
+🛠️ Installation:
+
+git clone https://github.com/Meeeehddiiii/SpamMail
+
+cd SpamMail
+
+python3 spammail.py
+
+************************************************************************************************************************************
+
+🔧 Setup:
+
+nano spammail.py
+
+Replace the sender email and application password 🔑.
+
+Ensure you use the correct SMTP protocol (e.g., for Gmail: smtp.gmail.com 📧).
 
